@@ -1,0 +1,3 @@
+
+* need  to figure out whether a 120 ohm resistor over the bus lines is necessary.
+* make a simple program to echo whatever comes on the bus.
